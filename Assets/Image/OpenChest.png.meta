@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 0889690368fee6748b7f0b2464712a2e
+guid: 763af52dd42adba45a9f3e38f64a02f0
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 3052590654859660464
-    second: OutsideBackground 1_0
+      213: 5785441279028039808
+    second: OpenChest_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -100,13 +100,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: OutsideBackground 1_0
+      name: OpenChest_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 1052
-        height: 591
+        width: 532
+        height: 394
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -115,8 +115,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 0bc469bf60bfc5a20800000000000000
-      internalID: 3052590654859660464
+      spriteID: 0801951d0340a4050800000000000000
+      internalID: 5785441279028039808
       vertices: []
       indices: 
       edges: []
@@ -134,8 +134,7 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable:
-      OutsideBackground 1_0: 3052590654859660464
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
